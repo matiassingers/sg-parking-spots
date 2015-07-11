@@ -1,0 +1,109 @@
+{
+"d" : [
+{
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(1)", "type": "LTAModel.CarPark"
+}, "CarParkID": 1, "Area": "Marina", "Development": "Suntec City", "Lots": 1147, "Summary": "Development: Suntec City Lots: 1147", "CreateDate": "\/Date(1436593217740)\/", "Latitude": 1.2935, "Longitude": 103.8572, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(2)", "type": "LTAModel.CarPark"
+}, "CarParkID": 2, "Area": "Marina", "Development": "Marina Square", "Lots": 1245, "Summary": "Development: Marina Square Lots: 1245", "CreateDate": "\/Date(1436593217747)\/", "Latitude": 1.2911, "Longitude": 103.8575, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(3)", "type": "LTAModel.CarPark"
+}, "CarParkID": 3, "Area": "Marina", "Development": "The Esplanade", "Lots": 585, "Summary": "Development: The Esplanade Lots: 585", "CreateDate": "\/Date(1436593217763)\/", "Latitude": 1.2898, "Longitude": 103.8551, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(4)", "type": "LTAModel.CarPark"
+}, "CarParkID": 4, "Area": "Marina", "Development": "Millenia Singapore", "Lots": 984, "Summary": "Development: Millenia Singapore Lots: 984", "CreateDate": "\/Date(1436593217773)\/", "Latitude": 1.2928, "Longitude": 103.8603, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(5)", "type": "LTAModel.CarPark"
+}, "CarParkID": 5, "Area": "Marina", "Development": "Singapore Flyer", "Lots": 237, "Summary": "Development: Singapore Flyer Lots: 237", "CreateDate": "\/Date(1436593217780)\/", "Latitude": 1.2894, "Longitude": 103.8632, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(6)", "type": "LTAModel.CarPark"
+}, "CarParkID": 6, "Area": "Orchard", "Development": "Orchard Point", "Lots": 129, "Summary": "Development: Orchard Point Lots: 129", "CreateDate": "\/Date(1436593217790)\/", "Latitude": 1.3013, "Longitude": 103.8405, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(7)", "type": "LTAModel.CarPark"
+}, "CarParkID": 7, "Area": "Orchard", "Development": "The Heeren", "Lots": 77, "Summary": "Development: The Heeren Lots: 77", "CreateDate": "\/Date(1436593217783)\/", "Latitude": 1.3026, "Longitude": 103.8375, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(8)", "type": "LTAModel.CarPark"
+}, "CarParkID": 8, "Area": "Orchard", "Development": "Plaza Singapura", "Lots": 2, "Summary": "Development: Plaza Singapura Lots: 2", "CreateDate": "\/Date(1436593217800)\/", "Latitude": 1.3006, "Longitude": 103.8456, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(9)", "type": "LTAModel.CarPark"
+}, "CarParkID": 9, "Area": "Orchard", "Development": "The Cathay", "Lots": 78, "Summary": "Development: The Cathay Lots: 78", "CreateDate": "\/Date(1436593217887)\/", "Latitude": 1.2996, "Longitude": 103.847, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(10)", "type": "LTAModel.CarPark"
+}, "CarParkID": 10, "Area": "Orchard", "Development": "Mandarin Hotel", "Lots": 176, "Summary": "Development: Mandarin Hotel Lots: 176", "CreateDate": "\/Date(1436593217897)\/", "Latitude": 1.3019, "Longitude": 103.8366, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(11)", "type": "LTAModel.CarPark"
+}, "CarParkID": 11, "Area": "Orchard", "Development": "Ngee Ann City", "Lots": 258, "Summary": "Development: Ngee Ann City Lots: 258", "CreateDate": "\/Date(1436593217677)\/", "Latitude": 1.3028, "Longitude": 103.8347, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(12)", "type": "LTAModel.CarPark"
+}, "CarParkID": 12, "Area": "Orchard", "Development": "Wisma Atria", "Lots": 82, "Summary": "Development: Wisma Atria Lots: 82", "CreateDate": "\/Date(1436593217687)\/", "Latitude": 1.3037786, "Longitude": 103.8332679, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(13)", "type": "LTAModel.CarPark"
+}, "CarParkID": 13, "Area": "Harbfront", "Development": "VivoCity P3", "Lots": 10, "Summary": "Development: VivoCity P3 Lots: 10", "CreateDate": "\/Date(1436593217700)\/", "Latitude": 1.2644, "Longitude": 103.8228, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(14)", "type": "LTAModel.CarPark"
+}, "CarParkID": 14, "Area": "Harbfront", "Development": "Sentosa", "Lots": 681, "Summary": "Development: Sentosa Lots: 681", "CreateDate": "\/Date(1436593217707)\/", "Latitude": 1.2568, "Longitude": 103.8238, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(15)", "type": "LTAModel.CarPark"
+}, "CarParkID": 15, "Area": "Orchard", "Development": "Tang Plaza", "Lots": 53, "Summary": "Development: Tang Plaza Lots: 53", "CreateDate": "\/Date(1436593217713)\/", "Latitude": 1.3046317, "Longitude": 103.8328278, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(16)", "type": "LTAModel.CarPark"
+}, "CarParkID": 16, "Area": "Harbfront", "Development": "Harbourfront Centre", "Lots": 291, "Summary": "Development: Harbourfront Centre Lots: 291", "CreateDate": "\/Date(1436593217730)\/", "Latitude": 1.264, "Longitude": 103.8203, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(17)", "type": "LTAModel.CarPark"
+}, "CarParkID": 17, "Area": "Orchard", "Development": "Far East Plaza", "Lots": 106, "Summary": "Development: Far East Plaza Lots: 106", "CreateDate": "\/Date(1436593217810)\/", "Latitude": 1.3071, "Longitude": 103.8334, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(18)", "type": "LTAModel.CarPark"
+}, "CarParkID": 18, "Area": "Orchard", "Development": "Centrepoint", "Lots": 120, "Summary": "Development: Centrepoint Lots: 120", "CreateDate": "\/Date(1436593217827)\/", "Latitude": 1.3014, "Longitude": 103.8395, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(19)", "type": "LTAModel.CarPark"
+}, "CarParkID": 19, "Area": "Orchard", "Development": "Concorde Hotel", "Lots": 183, "Summary": "Development: Concorde Hotel Lots: 183", "CreateDate": "\/Date(1436593217833)\/", "Latitude": 1.3006, "Longitude": 103.8421, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(20)", "type": "LTAModel.CarPark"
+}, "CarParkID": 20, "Area": "Orchard", "Development": "ION Orchard", "Lots": 114, "Summary": "Development: ION Orchard Lots: 114", "CreateDate": "\/Date(1436593217840)\/", "Latitude": 1.3043, "Longitude": 103.8319, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(21)", "type": "LTAModel.CarPark"
+}, "CarParkID": 21, "Area": "Orchard", "Development": "313@Somerset", "Lots": 36, "Summary": "Development: 313@Somerset Lots: 36", "CreateDate": "\/Date(1436593217850)\/", "Latitude": 1.3012, "Longitude": 103.8384, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(22)", "type": "LTAModel.CarPark"
+}, "CarParkID": 22, "Area": "Harbfront", "Development": "Resorts World Sentosa", "Lots": 1380, "Summary": "Development: Resorts World Sentosa Lots: 1380", "CreateDate": "\/Date(1436593217857)\/", "Latitude": 1.2568, "Longitude": 103.8238, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(23)", "type": "LTAModel.CarPark"
+}, "CarParkID": 23, "Area": "Harbfront", "Development": "VivoCity P2", "Lots": 469, "Summary": "Development: VivoCity P2 Lots: 469", "CreateDate": "\/Date(1436593217803)\/", "Latitude": 1.2644, "Longitude": 103.8228, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(24)", "type": "LTAModel.CarPark"
+}, "CarParkID": 24, "Area": "Orchard", "Development": "Orchard Central", "Lots": 88, "Summary": "Development: Orchard Central Lots: 88", "CreateDate": "\/Date(1436593217863)\/", "Latitude": 1.300724, "Longitude": 103.839945, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(25)", "type": "LTAModel.CarPark"
+}, "CarParkID": 25, "Area": "Orchard", "Development": "Park Mall", "Lots": 244, "Summary": "Development: Park Mall Lots: 244", "CreateDate": "\/Date(1436593217870)\/", "Latitude": 1.297834, "Longitude": 103.845268, "Distance": 0
+}, {
+"__metadata": {
+"uri": "http://datamall.mytransport.sg/LTAoDataService.svc/CarParkSet(26)", "type": "LTAModel.CarPark"
+}, "CarParkID": 26, "Area": "Marina", "Development": "Marina Bay Sands", "Lots": 511, "Summary": "Development: Marina Bay Sands Lots: 511", "CreateDate": "\/Date(1436593217873)\/", "Latitude": 1.28414, "Longitude": 103.859438, "Distance": 0
+}
+]
+}
